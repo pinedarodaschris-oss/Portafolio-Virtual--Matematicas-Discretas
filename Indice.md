@@ -27,3 +27,7 @@ Este portafolio reúne los contenidos, actividades y reflexiones desarrolladas d
 
 ## 📝 Conclusiones
 Reflexiones finales sobre el aprendizaje adquirido a lo largo del curso y su importancia en la computación y el razonamiento lógico.
+
+---
+### 🔙 Navegación  
+🏠 [Volver a la caratura](./Caratura.md)
