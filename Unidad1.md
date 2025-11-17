@@ -21,7 +21,7 @@
 [Recursos de apoyo](./Recursos.md)
 
 ### 📘 Actividades EVA
-[Actividades del EVA](./ActividaEva.md)
+[Actividades del EVA](./ActividadEva.md)
 
 ---
 ### 🔙 Navegación  
