@@ -9,4 +9,4 @@
 ### <p align="center">2025</p>
 
 ---
-[Ir al Indice](./indece.md)
+[Ir al Indice](./Indece.md)
